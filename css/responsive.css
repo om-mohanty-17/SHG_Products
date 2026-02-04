@@ -472,6 +472,37 @@
    Responsive Media Queries
    ========================================== */
 
+/* Medium Tablet (900px and below) */
+@media (max-width: 900px) {
+    .hero-content {
+        gap: 3rem;
+    }
+    
+    .hero-image {
+        height: 450px;
+    }
+    
+    .floating-card {
+        max-width: 190px;
+        padding: 1.5rem;
+    }
+    
+    .card-1 {
+        top: 8%;
+        right: 10%;
+    }
+    
+    .card-2 {
+        top: 48%;
+        left: 2%;
+    }
+    
+    .card-3 {
+        bottom: 8%;
+        right: 8%;
+    }
+}
+
 /* Tablet (768px and below) */
 @media (max-width: 768px) {
     /* Typography */
@@ -514,7 +545,28 @@
     }
     
     .hero-image {
-        height: 300px;
+        height: 400px;
+        margin-top: 2rem;
+    }
+    
+    .floating-card {
+        padding: 1.25rem 1.5rem;
+        max-width: 180px;
+    }
+    
+    .card-1 {
+        top: 0;
+        right: 5%;
+    }
+    
+    .card-2 {
+        top: 35%;
+        left: -5%;
+    }
+    
+    .card-3 {
+        bottom: 10%;
+        right: 0;
     }
     
     .hero-buttons {
@@ -637,8 +689,41 @@
         font-size: 1rem;
     }
     
+    .hero-image {
+        height: 350px;
+        margin-top: 1.5rem;
+    }
+    
     .floating-card {
-        padding: 1rem;
+        padding: 1rem 1.25rem;
+        max-width: 140px;
+    }
+    
+    .floating-card .icon {
+        font-size: 2rem;
+    }
+    
+    .floating-card h4 {
+        font-size: 1rem;
+    }
+    
+    .floating-card p {
+        font-size: 0.75rem;
+    }
+    
+    .card-1 {
+        top: 5%;
+        right: 0;
+    }
+    
+    .card-2 {
+        top: 40%;
+        left: -10%;
+    }
+    
+    .card-3 {
+        bottom: 5%;
+        right: -5%;
     }
     
     /* Products */
@@ -692,5 +777,48 @@
     
     .modal-body {
         padding: 1.5rem;
+    }
+}
+
+/* Extra Small Mobile (360px and below) */
+@media (max-width: 360px) {
+    .hero-image {
+        height: 320px;
+    }
+    
+    .floating-card {
+        padding: 0.875rem 1rem;
+        max-width: 120px;
+    }
+    
+    .floating-card .icon {
+        font-size: 1.75rem;
+    }
+    
+    .floating-card h4 {
+        font-size: 0.938rem;
+    }
+    
+    .floating-card p {
+        font-size: 0.688rem;
+    }
+    
+    .card-1 {
+        top: 2%;
+        right: -2%;
+    }
+    
+    .card-2 {
+        top: 42%;
+        left: -12%;
+    }
+    
+    .card-3 {
+        bottom: 2%;
+        right: -8%;
+    }
+    
+    .hero-text h2 {
+        font-size: 1.75rem;
     }
 }

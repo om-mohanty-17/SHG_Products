@@ -323,15 +323,26 @@ a {
 .hero-image {
     position: relative;
     height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .floating-card {
     position: absolute;
     background: white;
-    padding: 1.5rem;
+    padding: 1.5rem 2rem;
     border-radius: var(--radius-md);
     box-shadow: var(--shadow-md);
     animation: float 6s ease-in-out infinite;
+    max-width: 200px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.floating-card:hover {
+    transform: translateY(-5px) !important;
+    box-shadow: var(--shadow-lg);
 }
 
 .floating-card .icon {
@@ -352,26 +363,54 @@ a {
 }
 
 .card-1 {
-    top: 10%;
-    left: 10%;
+    top: 5%;
+    right: 15%;
     animation-delay: 0s;
 }
 
 .card-2 {
-    top: 40%;
-    right: 10%;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
     animation-delay: 2s;
 }
 
 .card-3 {
-    bottom: 15%;
-    left: 20%;
+    bottom: 5%;
+    right: 5%;
     animation-delay: 4s;
 }
 
 @keyframes float {
     0%, 100% { transform: translateY(0); }
     50% { transform: translateY(-20px); }
+}
+
+/* Desktop Large Screens - Better card spacing */
+@media (min-width: 1200px) {
+    .hero-image {
+        height: 550px;
+    }
+    
+    .floating-card {
+        max-width: 220px;
+        padding: 1.75rem 2.25rem;
+    }
+    
+    .card-1 {
+        top: 8%;
+        right: 18%;
+    }
+    
+    .card-2 {
+        top: 50%;
+        left: 3%;
+    }
+    
+    .card-3 {
+        bottom: 8%;
+        right: 8%;
+    }
 }
 
 /* ==========================================
