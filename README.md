@@ -113,7 +113,7 @@ LocalStorage (Cart Data)
 ## 🌍 Live Deployment
 
 ### 🔗 Live Website URL:
- https://your-live-deployment-link-here
+ https://shg-products.vercel.app/
  
  ---
 ## 📸 Screenshots
@@ -156,3 +156,4 @@ shg-ecommerce/
 ## 🎯 Conclusion
 This project successfully demonstrates how frontend technologies can be used to build meaningful platforms that support rural development and community empowerment.
 By integrating SHG products with a modern UI and interactive features, the website promotes digital inclusion, sustainable livelihoods, and social impact, aligning strongly with the objectives of Unnat Bharat Abhiyan.
+
