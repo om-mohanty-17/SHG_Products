@@ -29,7 +29,7 @@ const productsData = [
         categoryDisplay: "Food Products",
         price: 450,
         description: "Pure organic honey collected from local beekeepers. Rich in natural nutrients and free from additives. Supports sustainable beekeeping practices and local communities.",
-        image: "https://images.unsplash.com/photo-1587049352846-4a222e784eaf?w=500&h=500&fit=crop",
+        image: "https://5.imimg.com/data5/SELLER/Default/2024/6/426310461/YB/NW/PA/183776947/whatsapp-image-2024-06-10-at-22-16-06-1-1-500x500.jpeg",
         badge: "Organic"
     },
     {
@@ -39,7 +39,7 @@ const productsData = [
         categoryDisplay: "Beauty & Wellness",
         price: 599,
         description: "Set of 4 handmade natural soaps with essential oils. Free from harmful chemicals and perfect for sensitive skin. Made using traditional cold-press methods by women artisans.",
-        image: "https://images.unsplash.com/photo-1588870456783-afd44ebf76d1?w=500&h=500&fit=crop",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwixjLYtozWaMW7TxftFnIvkLa-66tG_q39w&s&fit=crop",
         badge: "Handmade"
     },
     {
@@ -59,7 +59,7 @@ const productsData = [
         categoryDisplay: "Textiles & Garments",
         price: 799,
         description: "Beautiful embroidered dupatta with intricate traditional designs. Perfect accessory to complement ethnic wear. Each piece showcases the skill of our talented artisans.",
-        image: "https://images.unsplash.com/photo-1583391733981-0704f2f03e44?w=500&h=500&fit=crop",
+        image: "https://assets0.mirraw.com/images/6585003/5bee58a654d2d95a3d4e037e_zoom.jpg?1544111291&fit=crop",
         badge: "New"
     },
     {
@@ -69,7 +69,7 @@ const productsData = [
         categoryDisplay: "Handicrafts",
         price: 349,
         description: "Eco-friendly jute shopping bags in three sizes. Durable, reusable, and perfect for reducing plastic usage. Handcrafted with reinforced handles.",
-        image: "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=500&h=500&fit=crop",
+        image: "https://images-static.nykaa.com/media/catalog/product/e/1/e1c4023EBLGB043_1.jpg?tr=w-500&fit=crop",
         badge: "Eco-Friendly"
     },
     {
@@ -79,7 +79,7 @@ const productsData = [
         categoryDisplay: "Food Products",
         price: 425,
         description: "Collection of 6 organic herbal teas sourced from local farms. Includes green tea, chamomile, ginger, tulsi, and mint. Rich in antioxidants and natural healing properties.",
-        image: "https://images.unsplash.com/photo-1597318110767-2b8f5df589ae?w=500&h=500&fit=crop",
+        image: "https://cdn11.bigcommerce.com/s-8466dwhhql/images/stencil/original/image-manager/tea-samplers-sq.jpg",
         badge: "Organic"
     },
     {
@@ -99,7 +99,7 @@ const productsData = [
         categoryDisplay: "Home Decor",
         price: 1150,
         description: "Handmade macramé wall hanging with intricate knotwork. Adds bohemian charm to any room. Made with natural cotton cord by skilled artisans.",
-        image: "https://images.unsplash.com/photo-1527287656469-6f18c762c0e5?w=500&h=500&fit=crop",
+        image: "https://www.decorcorner.in/cdn/shop/collections/0042_copy.jpg?v=1695320360",
         badge: "Trending"
     }
 ];
