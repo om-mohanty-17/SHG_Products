@@ -1,28 +1,17 @@
 # 🛍️ SHG Products – E-Commerce Website  
-### *Empowering Self-Help Groups under Unnat Bharat Abhiyan (UBA)*
+### *Empowering Self-Help Groups *
 
 ---
 
 ## 🌱 Introduction
 
-The **SHG Products E-Commerce Website** is a **frontend-only web application** developed to showcase products created by **Self-Help Groups (SHGs)** under the **Unnat Bharat Abhiyan (UBA)** initiative.
+The **SHG Products E-Commerce Website** is a **frontend-only web application** developed to showcase products created by **Self-Help Groups (SHGs)** 
 
 The platform aims to bridge the gap between **rural artisans and consumers** by providing a clean, responsive, and user-friendly digital marketplace.
 
 ---
 
-## 🇮🇳 About Unnat Bharat Abhiyan (UBA)
 
-**Unnat Bharat Abhiyan (UBA)** is a flagship initiative of the Government of India that connects higher educational institutions with rural communities to address development challenges.
-
-- 🌱 Focus on sustainable rural development  
-- 🤝 Encourages community participation  
-- 🛠️ Promotes skill development and livelihood generation  
-- 🏡 Strengthens village-level self-reliance  
-
-This project aligns with UBA’s vision by empowering SHGs through **digital inclusion**.
-
----
 
 ## 🧩 About the Website
 
